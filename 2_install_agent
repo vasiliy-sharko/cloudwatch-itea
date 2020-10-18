@@ -1,0 +1,5 @@
+# amzl2
+yum install amazon-cloudwatch-agent
+
+# ubuntu
+yum install https://s3.amazonaws.com/amazoncloudwatch-agent/ubuntu/amd64/latest/amazon-cloudwatch-agent.deb
