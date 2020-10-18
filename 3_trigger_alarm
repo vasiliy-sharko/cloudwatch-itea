@@ -1,0 +1,1 @@
+aws cloudwatch set-alarm-state --alarm-name lesson-10-alarm --state-value ALARM --state-reason "Testing"
